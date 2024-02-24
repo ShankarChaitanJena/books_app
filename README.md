@@ -51,15 +51,15 @@ Endpoint: https://api.thenotary.app/lead/getLeads
 
 The response from the API will be displayed in a ListView.
 
-###"Filtering"
+## "Filtering"
 
 The ListView is filterable by the "Name" field. Use the search bar or a separate filter input to filter the list dynamically.
 
-###"Screen Recording"
+## "Screen Recording"
 
 ```Watch a demonstration of the app's functionality in the screen recording.```
 
-###"Contributing"
+## "Contributing"
 
 Contributions are welcome! If you find any issues or have suggestions, feel free to open an "issue" or create a "pull request".
 
