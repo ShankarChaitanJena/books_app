@@ -57,7 +57,8 @@ The ListView is filterable by the "Name" field. Use the search bar or a separate
 
 ## "Screen Recording"
 
-```Watch a demonstration of the app's functionality in the screen recording.```
+https://github.com/ShankarChaitanJena/books_app/assets/126971109/89a5eda5-a81f-4358-9bba-878cb957c8b3
+
 
 ## "Contributing"
 
