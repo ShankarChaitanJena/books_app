@@ -1,16 +1,30 @@
-# books_app
+# Books App
 
-A new Flutter project.
+This Flutter project, "Books App," was developed as part of an internship assessment. The application makes a POST request to the provided API, displays the response in a ListView, and includes filtering functionality by name.
 
-## Getting Started
+## Table of Contents
+- ["Getting Started"](#getting-started)
+  - ["Prerequisites"](#prerequisites)
+  - ["Installation"](#installation)
+- ["Project Structure"](#project-structure)
+- ["Usage"](#usage)
+  - ["API Integration"](#api-integration)
+- ["Filtering"](#filtering)
+- ["Screen Recording"](#screen-recording)
+- ["Contributing"](#contributing)
+- ["License"](#license)
 
-This project is a starting point for a Flutter application.
+## "Getting Started"
 
-A few resources to get you started if this is your first Flutter project:
+### "Prerequisites"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before running the project, ensure you have the following installed:
+- Flutter SDK: ["Install Flutter"](https://flutter.dev/docs/get-started/install)
+- Dart SDK: ["Install Dart"](https://dart.dev/get-dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### "Installation"
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/books-app.git
+   cd books-app
